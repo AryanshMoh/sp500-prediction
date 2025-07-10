@@ -10,7 +10,7 @@ This project uses historical S&P 500 data and technical indicators (like RSI, MA
 
 ### Model Accuracy
 - Random Forest: ~55.7%
-- XGBoost: ~56.1%
+- XGBoost: ~57.0%
 
 ### 🔍 Try It
 You can modify the code in `sp500_prediction.ipynb` to test new models, indicators, or thresholds.
